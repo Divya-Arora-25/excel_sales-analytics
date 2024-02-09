@@ -15,7 +15,8 @@ Exploratory Data Analysis (EDA):
 Explored sales data to identify trends, patterns, and anomalies.
 Utilized PivotTables and charts to visualize key metrics and insights effectively.
 Statistical Analysis:
-lets connect:- divyaarora.da25@gmail.com
-
 Calculated metrics such as total sales, average order value, and sales growth rates.
 Used Excel functions and formulas to perform statistical analysis and derive meaningful insights.
+lets connect:- divyaarora.da25@gmail.com
+
+
